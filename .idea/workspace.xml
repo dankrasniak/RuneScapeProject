@@ -1,51 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f6cdb2a-f8f2-4c1a-ab35-6180f6111c60" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Danl.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jnativehook_2_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/opencv_300.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/x64.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/cascade.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/cascadechicken-1000neg300pos.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/cascadechicken-1100neg380pos.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/cascadechicken-1500neg380pos.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/cascadechicken-1500neg390posAdd.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/cascadechicken.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/cascadecows.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/negative/image0.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/positive/image0.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/runeScapeProject/Config.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/runeScapeProject/Controller.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/runeScapeProject/PointOfInterest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/runeScapeProject/RuneScapeProject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/runeScapeProject/View.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/runeScapeProject/imageRecognition/ObjectClassifier.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/runeScapeProject/imageRecognition/ObjectDetection.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/runeScapeProject/model/ChickenClassifierModel$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/runeScapeProject/model/ChickenClassifierModel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/runeScapeProject/model/FileManagement.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/runeScapeProject/model/Model.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/runeScapeProject/observer/Observable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/runeScapeProject/observer/Observer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/runeScapeProjetII/RuneScapeProjectII.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/runeScapeProjetII/controller/KeyboardController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/runeScapeProjetII/controller/MouseController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/runeScapeProjetII/view/MainWindowView.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/runeScapeProjetII/view/MirrorScreenPanel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/runeScapeProjetII/imageRecognition/objectDetection/Detector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/runeScapeProjetII/imageRecognition/objectDetection/Detector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/runeScapeProjetII/imageRecognition/objectDetection/RegionOfInterest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/runeScapeProjetII/imageRecognition/objectDetection/SlidingWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/runeScapeProjetII/imageRecognition/objectDetection/SlidingWindow.java" afterDir="false" />
-    </list>
+    <list default="true" id="4f6cdb2a-f8f2-4c1a-ab35-6180f6111c60" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -159,11 +115,11 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/java/runeScapeProjetII/imageRecognition/objectDetection/SlidingWindow.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret lean-forward="true" />
+                <state relative-caret-position="238">
+                  <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
                   <folding>
                     <element signature="imports" expanded="true" />
                     <element signature="e#345#346#0" expanded="true" />
@@ -173,7 +129,7 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/.gitignore">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="85">
@@ -490,18 +446,17 @@
       <workItem from="1549400956977" duration="3231000" />
       <workItem from="1549482172287" duration="1860000" />
       <workItem from="1549558702550" duration="9413000" />
-      <workItem from="1549645472425" duration="2069000" />
+      <workItem from="1549645472425" duration="2931000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104145000" />
+    <option name="totallyTimeSpent" value="105007000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18443497" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18443497" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -515,7 +470,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32848233" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32848233" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5005208" side_tool="true" weight="0.32925585" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49947917" weight="0.32925585" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -867,22 +822,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/runeScapeProjetII/imageRecognition/objectDetection/SlidingWindow.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#345#346#0" expanded="true" />
             <element signature="e#372#373#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
