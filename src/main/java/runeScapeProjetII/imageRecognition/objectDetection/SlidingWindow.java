@@ -1,4 +1,14 @@
 package runeScapeProjetII.imageRecognition.objectDetection;
 
-public class SlidingWindow {
+import runeScapeProjetII.imageRecognition.RegionOfInterest;
+import runeScapeProjetII.utils.ImageContainer;
+
+import java.util.List;
+
+public class SlidingWindow implements Detector {
+
+    @Override
+    public List<RegionOfInterest> detectRegionsOfInterest(ImageContainer imageContainer) {
+        return null;
+    }
 }

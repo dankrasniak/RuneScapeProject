@@ -1,10 +1,12 @@
 package runeScapeProjetII.imageRecognition.objectDetection;
 
 
+import runeScapeProjetII.imageRecognition.RegionOfInterest;
 import runeScapeProjetII.utils.ImageContainer;
+
+import java.util.List;
 
 public interface Detector {
 
-
-    public RegionOfInterest detectRegionsOfInterest(ImageContainer imageContainer);
+    List<RegionOfInterest> detectRegionsOfInterest(ImageContainer imageContainer);
 }
