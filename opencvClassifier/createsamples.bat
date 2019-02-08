@@ -1,0 +1,1 @@
+opencv_createsamples -info p.txt -vec sr.vec -w 20 -h 20
