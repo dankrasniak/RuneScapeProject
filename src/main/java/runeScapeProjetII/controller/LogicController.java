@@ -1,4 +1,10 @@
 package runeScapeProjetII.controller;
 
-public class LogicController {
+import runeScapeProjetII.observer.Observer;
+
+public class LogicController implements Observer{
+    @Override
+    public void update(Object arg) {
+
+    }
 }

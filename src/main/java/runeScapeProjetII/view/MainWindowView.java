@@ -1,6 +1,7 @@
 package runeScapeProjetII.view;
 
 import runeScapeProjetII.controller.KeyboardController;
+import runeScapeProjetII.controller.LogicController;
 import runeScapeProjetII.controller.MouseController;
 
 import javax.swing.*;
@@ -17,8 +18,8 @@ public class MainWindowView extends JFrame implements Runnable {
 
     private boolean RUNNING = true;
 
-    public void initialize(MouseController mouseController, KeyboardController keyboardController) {
-        this.add(new MirrorScreenPanel(mouseController, 0, 0, GAME_WIDTH, GAME_HEIGHT));
+    public void initialize(MouseController mouseController, KeyboardController keyboardController, LogicController logicController) {
+        this.add(new MirrorScreenPanel(mouseController, 0, 0, GAME_WIDTH, GAME_HEIGHT, logicController));
 
         this.addKeyListener(keyboardController);
 
