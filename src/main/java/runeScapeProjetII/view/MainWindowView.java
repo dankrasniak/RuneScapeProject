@@ -1,7 +1,7 @@
 package runeScapeProjetII.view;
 
 import runeScapeProjetII.controller.KeyboardController;
-import runeScapeProjetII.controller.LogicController;
+import runeScapeProjetII.controller.logic.LogicController;
 import runeScapeProjetII.controller.MouseController;
 
 import javax.swing.*;

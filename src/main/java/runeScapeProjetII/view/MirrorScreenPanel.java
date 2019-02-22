@@ -1,6 +1,6 @@
 package runeScapeProjetII.view;
 
-import runeScapeProjetII.controller.LogicController;
+import runeScapeProjetII.controller.logic.LogicController;
 import runeScapeProjetII.controller.MouseController;
 import runeScapeProjetII.observer.Observable;
 import runeScapeProjetII.observer.Observer;

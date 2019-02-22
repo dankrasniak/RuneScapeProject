@@ -39,6 +39,7 @@ public class ChickenClassifierModel implements Model {
     private final CascadeClassifier classifier;
     private Robot robot;
     // endregion
+
     public ChickenClassifierModel(View view, CascadeClassifier classifier) {
         this.view = view;
         this.classifier = classifier;
